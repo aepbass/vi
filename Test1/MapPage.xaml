@@ -1,0 +1,88 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Test1.MapPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:my="clr-namespace:Microsoft.Phone.Controls.Maps;assembly=Microsoft.Phone.Controls.Maps"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+    
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1">
+            <Button Content="Events" HorizontalAlignment="Right" VerticalAlignment="Top" Width="Auto" Height="Auto" Click="eventbuttonclicked" />
+            <!--This is the map.-->
+                <Border BorderThickness="1">
+                    <my:Map Name="map1" 
+                            Width="454" Height="693" 
+                            HorizontalAlignment="Center" 
+                            VerticalAlignment="Bottom" 
+                            Margin="0,0,0,0" 
+                            CopyrightVisibility="Collapsed" LogoVisibility="Collapsed"
+                            CredentialsProvider="{Binding CredentialsProvider}"
+                            ZoomLevel="{Binding Zoom, Mode=TwoWay}"
+                            Center="{Binding Center, Mode=TwoWay}">
+                        
+                        <my:Map.Mode>
+                            <my:AerialMode ShouldDisplayLabels="True" />
+                        </my:Map.Mode>
+                    
+                        <!--TODO: fix the pushpins so that they, uh, work.-->
+                    <my:MapItemsControl ItemsSource="{Binding LatestEarthquakes}">
+                        <my:MapItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <my:Pushpin Content="{Binding Location}" Location="{Binding Position}" />
+                            </DataTemplate>
+                        </my:MapItemsControl.ItemTemplate>
+                    </my:MapItemsControl>
+                        
+                <Button x:Name="zoominbutton"
+                                Content="+"
+                                HorizontalAlignment="Left" VerticalAlignment="Top"
+                                Height="56" Width="56" Margin="8,180,0,0"
+                                Click="zoominbuttonclicked" />
+
+                        <Button x:Name="zoomoutbutton"     
+                                Content="-"
+                                HorizontalAlignment="Left" VerticalAlignment="Top"
+                                Height="56" Width="56" Margin="8,260,0,0"
+                                Click="zoomoutbuttonclicked" />
+                    </my:Map>
+            </Border>
+        </Grid>
+    </Grid>
+ 
+    
+    
+    
+    <!--ApplicationBar-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" Opacity=".6">
+            <shell:ApplicationBarIconButton IconUri="Test1/Icons/appbar.back.rest.png" Text="Back" Click="backbuttonclicked" />
+            <shell:ApplicationBarIconButton IconUri="Test1/Icons/Location.png" Text="Center" Click="centerbuttonclicked" />
+            <shell:ApplicationBarIconButton IconUri="Test1/Icons/Mode.png" Text="Map Mode" Click="modebuttonclicked" />
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Add a pin" Click="menuitem1click"/>
+                <shell:ApplicationBarMenuItem Text="View my events" Click="menuitem2click"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+    
+    
+    
+    
+</phone:PhoneApplicationPage>

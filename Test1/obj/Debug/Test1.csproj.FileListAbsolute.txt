@@ -1,0 +1,140 @@
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\ApplicationIcon.png
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\Background.png
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\Test1.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\Test1.pdb
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\AppManifest.xaml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\Test1.xap
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\obj\Debug\App.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\obj\Debug\MainPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\obj\Debug\Test1.g.resources
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\obj\Debug\Test1.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\obj\Debug\Test1.pdb
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\obj\Debug\XapCacheFile.xml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\obj\Debug\MapPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\obj\Debug\ErrorPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\Bin\Debug\ApplicationTile.png
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\sendaid_0.01\Test1\obj\Debug\ListPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\ApplicationIcon.png
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\ApplicationTile.png
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\Background.png
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\Test1.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\Test1.pdb
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\AppManifest.xaml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\Test1.xap
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\App.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\ListPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\MainPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\MapPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\ErrorPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\Test1.g.resources
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\Test1.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\Test1.pdb
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\XapCacheFile.xml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01\Test1\obj\Debug\AddEvent.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\App.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\AddEvent.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\ListPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\MainPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\MapPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\ErrorPage.g.i.cs
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\Test1.g.resources
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\Test1.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\ApplicationIcon.png
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\ApplicationTile.png
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\Background.png
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\Test1.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\Test1.pdb
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\Test1.pdb
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\AppManifest.xaml
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\Bin\Debug\Test1.xap
+C:\Users\Jon\Desktop\Computer Science\Development Environments\Windows Phone 7\Projects\v&i 0.01 - Copy\Test1\obj\Debug\XapCacheFile.xml
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\ApplicationIcon.png
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\ApplicationTile.png
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\Background.png
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\Test1.dll
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\Test1.pdb
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\AppManifest.xaml
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\Test1.xap
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\App.g.i.cs
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\AddEvent.g.i.cs
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\ListPage.g.i.cs
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\MainPage.g.i.cs
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\MapPage.g.i.cs
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\ErrorPage.g.i.cs
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\Test1.g.resources
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\Test1.dll
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\Test1.pdb
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\XapCacheFile.xml
+C:\Users\Jon\Desktop\project backup\Mostly Stable\v&i 0.03\Test1\obj\Debug\ProfilePage.g.i.cs
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\ApplicationIcon.png
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\ApplicationTile.png
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\Background.png
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\Test1.dll
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\Test1.pdb
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\AppManifest.xaml
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\Test1.xap
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Mom\Desktop\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\App.g.i.cs
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\AddEvent.g.i.cs
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\ListPage.g.i.cs
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\MainPage.g.i.cs
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\MapPage.g.i.cs
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\ErrorPage.g.i.cs
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\ProfilePage.g.i.cs
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\Test1.g.resources
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\Test1.dll
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\Test1.pdb
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\XapCacheFile.xml
+C:\Users\Mom\Desktop\v&i 0.03\Test1\obj\Debug\LocationSettings.g.i.cs
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\ApplicationIcon.png
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\ApplicationTile.png
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\Background.png
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\Test1.dll
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\Test1.pdb
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\AppManifest.xaml
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\Test1.xap
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\admin\Desktop\v&i 0.03\Test1\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\App.g.i.cs
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\AddEvent.g.i.cs
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\DetailsPage.g.i.cs
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\ListPage.g.i.cs
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\LocationSettings.g.i.cs
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\MainPage.g.i.cs
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\MapPage.g.i.cs
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\ErrorPage.g.i.cs
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\ProfilePage.g.i.cs
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\Test1.g.resources
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\Test1.dll
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\Test1.pdb
+C:\Users\admin\Desktop\v&i 0.03\Test1\obj\Debug\XapCacheFile.xml
