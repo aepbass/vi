@@ -1,0 +1,12 @@
+to update the project:
+
+commit all changes:
+git commit -a
+
+
+add to the next commit:
+git add filename.extension
+
+
+push to git account:
+git push origin master
