@@ -1,12 +1,57 @@
 to update the project:
 
-commit all changes:
-git commit -a
+add all changes:
+git add .
 
 
 add to the next commit:
 git add filename.extension
 
 
+commit changes:
+git commit -m "something like 'third commit'"
+
+
 push to git account:
+git push origin master
+
+
+git bash uses a lot of bash commands. This is something that is common in linux.
+Some cheats:
+
+..                 moves up a directory
+cd ~/directory     moves to a directory
+cd ~/directory/..  moves a level up from directory
+mkdir		   makes a folder in the current directory you're in
+
+
+
+other relevant stuff:
+http://help.github.com/git-cheat-sheets/
+
+
+
+If you want to get good at this stuff, download linux (try wubi) and play around.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When you get done with your changes, add your files to the next commit and then commit it to the account.
+
+an example of saving all your work online:
+
+cd ~/vi
+git add .
+git commit -m "fourth commit"
 git push origin master
