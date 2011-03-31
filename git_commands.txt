@@ -10,6 +10,8 @@ git add filename.extension
 
 commit changes:
 git commit -m "something like 'third commit'"
+Whatever goes in the quotes is shown on the website alongside the file. This message is only updated when
+the corresponding file is changed, so it may be a good idea to write a date or version number.
 
 
 push to git account:
