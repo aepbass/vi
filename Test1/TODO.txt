@@ -1,0 +1,17 @@
+To do:
+
+
+Everything still needs implementation.
+
+Notes do not work.
+Location does not work.
+Events do not work.
+System calls do not work whatsoever.
+
+
+
+Next to every item in My Events, there should be an icon denoting what the type of the event is. This should be
+a parameter of AddEvent.
+
+
+The zoom buttons do not work.

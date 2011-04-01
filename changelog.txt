@@ -1,0 +1,5 @@
+4/1/2011 1:03 AM
+--------------------
+Got the zoom working, sort of. Zoom changes and reports itself back in a timely manner, but the map does not visibly change.The "center" button in MapPage
+is also working, but again, nothing visibly happens. Animation should be added. Started working on implementing a GeoCoordinateWatcher to report the current
+GPS coordinate, or report an error if GPS is off. Nothing is in place so far.

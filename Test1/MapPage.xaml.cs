@@ -11,6 +11,8 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using System.Windows.Navigation;
 using System.Device.Location;
+using System.ComponentModel;
+using System.Windows.Controls.Primitives;
 
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Controls.Maps;
@@ -47,7 +49,9 @@ namespace Test1
         //Map zoom level.
         private double _zoom;
 
-        public double tempzoom = 1.0;
+        //This default location should be changed based on the default location in the Settings menu.
+        private GeoCoordinate DefaultLocation = new GeoCoordinate(44.7837742, -68.734658);
+        private GeoCoordinate _center;
         #endregion
 
 
@@ -66,12 +70,24 @@ namespace Test1
                 if (_zoom != coercedZoom)
                 {
                     _zoom = value;
-                    //NotifyPropertyChanged("Zoom");
+                    NotifyPropertyChanged("Zoom");
                 }
             }
         }
 
+        public GeoCoordinate Center
+        {
+            get { return _center; }
+            set
+            {
+                if (_center != value)
+                {
+                    _center = value;
+                    NotifyPropertyChanged("Center");
 
+                }
+            }
+        }
 
         #endregion
 
@@ -79,18 +95,17 @@ namespace Test1
 
         #region buttons;
 
-        //zoom buttons TEMPORARY VERSION
-        private void zoominbuttonclicked(object sender, RoutedEventArgs e)
+
+        private void zoominbuttonclicked(object sender, EventArgs e)
         {
-            tempzoom = tempzoom + 2;
+            Zoom += 1;
+            System.Diagnostics.Debug.WriteLine(Zoom);
         }
-
-        private void zoomoutbuttonclicked(object sender, RoutedEventArgs e)
+        private void zoomoutbuttonclicked(object sender, EventArgs e)
         {
-            tempzoom = tempzoom - 2;
+            Zoom -= 1;
+            System.Diagnostics.Debug.WriteLine(Zoom);
         }
-
-
         //applicationbar stuff
         private void backbuttonclicked(object sender, EventArgs e)
         {
@@ -100,7 +115,8 @@ namespace Test1
 
         private void centerbuttonclicked(object sender, EventArgs e)
         {
-            return;
+            //centers the map to the default location, and resets the zoom.
+            CenterLocation();
         }
 
         private void modebuttonclicked(object sender, EventArgs e)
@@ -143,6 +159,15 @@ namespace Test1
             {
                 map1.Mode = new AerialMode(true);
             }
+        }
+
+        private void CenterLocation()
+        {
+            // Center map to default location.
+            Center = DefaultLocation;
+
+            // Reset zoom default level.
+            Zoom = DefaultZoomLevel;
         }
 
         #endregion

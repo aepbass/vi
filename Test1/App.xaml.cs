@@ -78,7 +78,7 @@ namespace Test1
         // This code will not execute when the application is reactivated
         private void Application_Launching(object sender, LaunchingEventArgs e)
         {
-            //Detects the foreground/background color set by the user. Doesn't work yet.
+            //Detects the foreground/background color set by the user.
             PhoneApplicationPage page = new PhoneApplicationPage();
             object foregroundcolor = page.Resources["PhoneForegroundColor"].ToString();
             object backgroundcolor = page.Resources["PhoneBackgroundColor"].ToString();

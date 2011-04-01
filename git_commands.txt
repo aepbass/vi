@@ -26,8 +26,6 @@ cd ~/directory     moves to a directory
 cd ~/directory/..  moves a level up from directory
 mkdir		   makes a folder in the current directory you're in
 
-
-
 other relevant stuff:
 http://help.github.com/git-cheat-sheets/
 
