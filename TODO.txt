@@ -1,0 +1,9 @@
+To do:
+
+
+Everything still needs implementation.
+
+Notes do not work.
+Location does not work.
+Events do not work.
+System calls do not work whatsoever.

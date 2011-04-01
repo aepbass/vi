@@ -41,14 +41,6 @@ If you want to get good at this stuff, download linux (try wubi) and play around
 
 
 
-
-
-
-
-
-
-
-
 When you get done with your changes, add your files to the next commit and then commit it to the account.
 
 an example of saving all your work online:
