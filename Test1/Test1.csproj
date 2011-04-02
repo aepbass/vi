@@ -95,6 +95,9 @@
       <DependentUpon>ProfilePage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelectCategory.xaml.cs">
+      <DependentUpon>SelectCategory.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ViewModels\MainViewModel.cs" />
     <Compile Include="watcher.cs" />
   </ItemGroup>
@@ -139,9 +142,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="SelectCategory.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="TODO.txt" />
+    <Resource Include="Icons\Category Icons\CategoryIconAid.png" />
+    <Resource Include="Icons\Category Icons\CategoryIconFood.png" />
     <Content Include="Visual studio tips.txt" />
     <None Include="Properties\AppManifest.xml" />
     <None Include="Properties\WMAppManifest.xml" />
@@ -151,26 +159,26 @@
     <Content Include="ApplicationIcon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Resource Include="Icons\Location.png" />
-    <Resource Include="Icons\Route.png" />
-    <Resource Include="Icons\ZoomIn_Black.png" />
-    <Resource Include="Icons\ZoomIn_White.png" />
-    <Resource Include="Icons\ZoomOut_Black.png" />
-    <Resource Include="Icons\ZoomOut_White.png" />
-    <Resource Include="Icons\hud_x.png" />
+    <Content Include="Icons\Location.png" />
+    <Content Include="Icons\Route.png" />
+    <Content Include="Icons\ZoomIn_Black.png" />
+    <Content Include="Icons\ZoomIn_White.png" />
+    <Content Include="Icons\ZoomOut_Black.png" />
+    <Content Include="Icons\ZoomOut_White.png" />
+    <Content Include="Icons\hud_x.png" />
     <Content Include="ApplicationTile.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Background.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Resource Include="Icons\appbar.add.rest.png" />
-    <Resource Include="Icons\appbar.back.rest.png" />
-    <Resource Include="Icons\appbar.cancel.rest.png" />
-    <Resource Include="Icons\appbar.delete.rest.png" />
-    <Resource Include="Icons\appbar.save.rest.png" />
-    <Resource Include="Icons\ArrowImg.png" />
-    <Resource Include="Icons\Mode.png" />
+    <Content Include="Icons\appbar.add.rest.png" />
+    <Content Include="Icons\appbar.back.rest.png" />
+    <Content Include="Icons\appbar.cancel.rest.png" />
+    <Content Include="Icons\appbar.delete.rest.png" />
+    <Content Include="Icons\appbar.save.rest.png" />
+    <Content Include="Icons\ArrowImg.png" />
+    <Content Include="Icons\Mode.png" />
     <Content Include="SplashScreenImage.jpg" />
   </ItemGroup>
   <ItemGroup />

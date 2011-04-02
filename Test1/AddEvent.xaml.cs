@@ -23,8 +23,16 @@ namespace Test1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Note newNote = new Note { Title = textTitle.Text, NoteText = textNote.Text, CreateDate = DateTime.Now, EventDate = timeTextbox.Text, EventLocation = locationTextbox.Text };
-            newNote.Save();
+            Note newEvent = new Note 
+                { 
+                Title = textTitle.Text,
+                NoteText = textNote.Text,
+                CreateDate = DateTime.Now,
+                EventDate = timeTextbox.Text,
+                EventLocation = locationTextbox.Text,
+                EventCategory=CategoryTextBox.Text 
+                };
+            newEvent.Save();
 
         NavigationService.Navigate(new Uri("/ListPage.xaml", UriKind.Relative));
         }
@@ -45,5 +53,14 @@ namespace Test1
             //TODO: This button should allow the user to set the time they want the event to take place. Uses a GUI inside of a new window.
             timeTextbox.Text = "12:00 PM";
         }
+
+        private void SetCategoryButtonClicked(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/SelectCategory.xaml", UriKind.Relative));
+            //sort of works. Not really.
+            CategoryTextBox.Text = SelectCategory.Category;
+        }
+
+        
     }
 }

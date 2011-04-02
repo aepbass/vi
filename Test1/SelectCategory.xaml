@@ -1,0 +1,68 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Test1.SelectCategory"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Select a Category" Style="{StaticResource PhoneTextNormalStyle}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <StackPanel x:Name="StackPanel" Grid.Row="0">
+                <TextBlock Text="Aid" Margin="0,-20,0,0" Style="{StaticResource PhoneTextTitle1Style}" />
+                <TextBlock Text="Support a local health effort." Margin="30,0,0,0" Style="{StaticResource PhoneTextNormalStyle}" Opacity=".8"/>
+                <Image Source="Icons/Category Icons/CategoryIconAid.png" Margin="0,-100,0,0" Height="100" Width="100" HorizontalAlignment="Right" />
+                
+                <TextBlock Text="Donate" Margin="0,0,0,0" Style="{StaticResource PhoneTextTitle1Style}" />
+                <TextBlock Text="Collect donated goods." Margin="30,0,0,0" Style="{StaticResource PhoneTextNormalStyle}" Opacity=".8"/>
+                <Image Source="Icons/Category Icons/CategoryIconAid.png" Margin="0,-100,0,0" Height="100" Width="100" HorizontalAlignment="Right" />
+
+                <TextBlock Text="Feed" Margin="0,0,0,0" Style="{StaticResource PhoneTextTitle1Style}" />
+                <TextBlock Text="Serve food." Margin="30,0,0,0" Style="{StaticResource PhoneTextNormalStyle}" Opacity=".8"/>
+                <Image Source="Icons/Category Icons/CategoryIconFood.png" Margin="0,-100,0,0" Height="100" Width="100" HorizontalAlignment="Right" />
+                
+                <TextBlock Text="Raise" Margin="0,0,0,0" Style="{StaticResource PhoneTextTitle1Style}" />
+                <TextBlock Text="Help collect money." Margin="30,0,0,0" Style="{StaticResource PhoneTextNormalStyle}" Opacity=".8"/>
+                <Image Source="Icons/Category Icons/CategoryIconAid.png" Margin="0,-100,0,0" Height="100" Width="100" HorizontalAlignment="Right" />
+                
+                <TextBlock Text="Dodge" Margin="0,0,0,0" Style="{StaticResource PhoneTextTitle1Style}" />
+                <TextBlock Text="Dodge a wrench." Margin="30,0,0,0" Style="{StaticResource PhoneTextNormalStyle}" Opacity=".8"/>
+                <Image Source="Icons/Category Icons/CategoryIconAid.png" Margin="0,-100,0,0" Height="100" Width="100" HorizontalAlignment="Right" />
+            </StackPanel>
+            
+            <StackPanel>
+                <!--TODO: Delete these and replace with focus events once I understand how they work.-->
+                <Button Width="480" Height="130" Margin="-15,-10,0,0" Opacity=".2"
+                        Click="AidButtonClicked"/>
+                <Button Width="480" Height="130" Margin="-15,-5,0,0" Opacity=".2"
+                        Click="DonateButtonClicked"/>
+                <Button Width="480" Height="130" Margin="-15,-10,0,0" Opacity=".2"
+                        Click="FeedButtonClicked"/>
+                <Button Width="480" Height="130" Margin="-15,-5,0,0" Opacity=".2"
+                        Click="RaiseButtonClicked"/>
+                <Button Width="480" Height="130" Margin="-15,-10,0,0" Opacity=".2"
+                        Click="ButtonFiveClicked"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

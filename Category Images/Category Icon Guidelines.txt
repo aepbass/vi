@@ -1,0 +1,2 @@
+Whatever is drawn should be on top of a transparency. Additionally, it should be one color. The image size must
+be 43x43 pixels. I used GIMP to make the images.

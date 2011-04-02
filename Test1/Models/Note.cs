@@ -96,7 +96,7 @@ namespace Test1
                 }
             }
 
-            private string eventLocation;
+        private string eventLocation;
             /// <summary>
             /// Sample ViewModel property; this property is used in the view to display its value using a Binding.
             /// </summary>
@@ -117,6 +117,29 @@ namespace Test1
                     }
                 }
             }
+
+        private string eventCategory;
+            /// <summary>
+            /// Goes to SelectCategory and returns the user input.
+            /// </summary>
+            [DataMember]
+            public string EventCategory
+            {
+                get
+                {
+                    return eventCategory;
+                }
+                set
+                {
+                    if (value != eventCategory)
+                    {
+                        eventCategory = value;
+                        NotifyPropertyChanged("EventCategory");
+                    }
+                }
+            }
+
+        
 
 
         public void Save()

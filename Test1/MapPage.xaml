@@ -71,10 +71,10 @@
     
     <!--ApplicationBar-->
     <phone:PhoneApplicationPage.ApplicationBar>
-        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" Opacity=".6">
-            <shell:ApplicationBarIconButton IconUri="Test1/Icons/appbar.back.rest.png" Text="Back" Click="backbuttonclicked" />
-            <shell:ApplicationBarIconButton IconUri="Test1/Icons/Location.png" Text="Center" Click="centerbuttonclicked" />
-            <shell:ApplicationBarIconButton IconUri="Test1/Icons/Mode.png" Text="Map Mode" Click="modebuttonclicked" />
+        <shell:ApplicationBar x:Name="MapPageApplicationBar" IsVisible="True" IsMenuEnabled="True" Opacity=".6">
+            <shell:ApplicationBarIconButton IconUri="/Icons/appbar.back.rest.png" Text="Back" Click="backbuttonclicked" />
+            <shell:ApplicationBarIconButton IconUri="/Icons/Location.png" Text="Center" Click="centerbuttonclicked" />
+            <shell:ApplicationBarIconButton IconUri="/Icons/Mode.png" Text="Map Mode" Click="modebuttonclicked" />
             <shell:ApplicationBar.MenuItems>
                 <shell:ApplicationBarMenuItem Text="Add a pin" Click="menuitem1click"/>
                 <shell:ApplicationBarMenuItem Text="View my events" Click="menuitem2click"/>

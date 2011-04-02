@@ -163,3 +163,4 @@ C:\Users\Jon\vi\Test1\obj\Debug\Test1.g.resources
 C:\Users\Jon\vi\Test1\obj\Debug\Test1.dll
 C:\Users\Jon\vi\Test1\obj\Debug\Test1.pdb
 C:\Users\Jon\vi\Test1\obj\Debug\XapCacheFile.xml
+C:\Users\Jon\vi\Test1\obj\Debug\SelectCategory.g.i.cs
