@@ -38,7 +38,7 @@
             <Button Content="Set Time" HorizontalAlignment="Right" Margin="0,374,6,94" Name="buttonTime" Width="192" Height="77" Click="settimebuttonclicked"/>
             <Button Content="Set Category" HorizontalAlignment="Right" Margin="0,434,6,34" Name="CategoryButton" Width="202" Height="77" Click="SetCategoryButtonClicked"/>
             <TextBox Name="CategoryTextBox" Height="72" HorizontalAlignment="Left" Margin="14,434,0,0" Text="" VerticalAlignment="Top" Width="174" />
-            <Image Source="{Binding CategoryImagePath}" Height="49" HorizontalAlignment="Left" Margin="205,445,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="49" />
+            <Image Source="{Binding EventCategoryGraphic}" Height="49" HorizontalAlignment="Left" Margin="205,445,0,0" Name="CategoryImage" Stretch="Fill" VerticalAlignment="Top" Width="49" />
         </Grid>
     </Grid>
 

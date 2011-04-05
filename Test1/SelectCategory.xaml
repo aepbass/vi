@@ -34,7 +34,7 @@
                 
                 <TextBlock Text="Donate" Margin="0,0,0,0" Style="{StaticResource PhoneTextTitle1Style}" />
                 <TextBlock Text="Collect donated goods." Margin="30,0,0,0" Style="{StaticResource PhoneTextNormalStyle}" Opacity=".8"/>
-                <Image Source="Icons/Category Icons/CategoryIconAid.png" Margin="0,-100,0,0" Height="100" Width="100" HorizontalAlignment="Right" />
+                <Image Source="Icons/Category Icons/CategoryIconDonate.png" Margin="0,-100,0,0" Height="100" Width="100" HorizontalAlignment="Right" />
 
                 <TextBlock Text="Feed" Margin="0,0,0,0" Style="{StaticResource PhoneTextTitle1Style}" />
                 <TextBlock Text="Serve food." Margin="30,0,0,0" Style="{StaticResource PhoneTextNormalStyle}" Opacity=".8"/>

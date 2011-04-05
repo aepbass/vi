@@ -139,6 +139,25 @@ namespace Test1
                 }
             }
 
+        private string eventCategoryGraphic;
+        [DataMember]
+            public string EventCategoryGraphic
+            {
+                get
+                {
+                    return eventCategoryGraphic;
+                }
+                set
+                {
+                    if (value != eventCategoryGraphic)
+                    {
+                        eventCategoryGraphic = value;
+                        NotifyPropertyChanged("EventCategoryGraphic");
+                    }
+                }
+        }
+
+
         
 
 

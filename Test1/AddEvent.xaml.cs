@@ -30,7 +30,8 @@ namespace Test1
                 CreateDate = DateTime.Now,
                 EventDate = timeTextbox.Text,
                 EventLocation = locationTextbox.Text,
-                EventCategory=CategoryTextBox.Text 
+                EventCategory=CategoryTextBox.Text,
+                EventCategoryGraphic=CategoryImage.Source;
                 };
             newEvent.Save();
 
@@ -57,8 +58,27 @@ namespace Test1
         private void SetCategoryButtonClicked(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new Uri("/SelectCategory.xaml", UriKind.Relative));
+            
             //sort of works. Not really.
+            //OnNavigatedTo():
             CategoryTextBox.Text = SelectCategory.Category;
+            if (SelectCategory.Category == "Aid")
+            {
+                
+            }
+            else if (SelectCategory.Category == "Donate")
+            {
+
+            }
+            else if (SelectCategory.Category == "Feed")
+            {
+
+            }
+            else if (SelectCategory.Category == "Raise")
+            {
+
+            }
+
         }
 
         

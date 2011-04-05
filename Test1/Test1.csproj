@@ -150,6 +150,7 @@
   <ItemGroup>
     <Resource Include="Icons\Category Icons\CategoryIconAid.png" />
     <Resource Include="Icons\Category Icons\CategoryIconFood.png" />
+    <Resource Include="Icons\Category Icons\CategoryIconDonate.png" />
     <Content Include="Visual studio tips.txt" />
     <None Include="Properties\AppManifest.xml" />
     <None Include="Properties\WMAppManifest.xml" />

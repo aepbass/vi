@@ -60,9 +60,7 @@
                     <ListBox.ItemTemplate>
                         <DataTemplate>
                             <StackPanel x:Name="DataTemplateStackPanel" Orientation="Horizontal">
-                                <!--This image should be different depending on the type of event it is-->
-                                <!--Parameter of Note.cs:     Source="{Binding CategoryImagePath}"-->
-                                <Image x:Name="CategoryImage" Source="/Icons/ArrowImg.png" Height="43" Width="43" VerticalAlignment="Top" Margin="10,0,20,0"/>
+                                <Image x:Name="CategoryImage" Source="{Binding EventCategoryGraphic}" Height="43" Width="43" VerticalAlignment="Top" Margin="10,0,20,0"/>
                                 <StackPanel>
                                     <TextBlock x:Name="ItemText" Text="{Binding Title}" Margin="10,-13,0,0" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
                                     <TextBlock x:Name="DetailsText" Text="{Binding CreateDate}" Margin="12,-6,0,3" Style="{StaticResource PhoneTextSubtleStyle}"/>

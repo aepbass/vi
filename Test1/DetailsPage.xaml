@@ -29,15 +29,18 @@
 
         <!--ContentPanel contains details text. Place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1">
-            <TextBlock x:Name="ContentText" Text="{Binding NoteText}" TextWrapping="Wrap" Margin="24,97,24,61" Style="{StaticResource PhoneTextTitle3Style}"/>
+            <TextBlock x:Name="ContentText" Text="{Binding NoteText}" TextWrapping="Wrap" Margin="24,128,24,61" Style="{StaticResource PhoneTextTitle3Style}"/>
             
                 <TextBlock x:Name="CreatedText" Text="Created:" Margin="24,2,0,0" Height="30" VerticalAlignment="Top"/>
             <TextBlock x:Name="EventDateText" Text="Takes place:" Margin="24,32,0,0" Height="30" VerticalAlignment="Top"/>
             <TextBlock x:Name="LocationText" Text="Location:" Margin="24,62,0,0" Height="30" VerticalAlignment="Top"/>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="24,96,0,0" Name="textBlock4" Text="Category:" VerticalAlignment="Top" />
             
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="134,2,0,0" Name="textBlock1" Text="{Binding CreateDate}" VerticalAlignment="Top" Width="299" />
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="134,32,0,0" Name="textBlock2" Text="{Binding EventDate}" VerticalAlignment="Top" Width="299" />
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="134,62,0,0" Name="EventLocationBlock" Text="{Binding EventLocation}" VerticalAlignment="Top" Width="299" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="134,92,0,0" Name="textBlock3" Text="{Binding EventCategory}" VerticalAlignment="Top" Width="263" />
+            <Image Height="30" HorizontalAlignment="Left" Margin="403,92,0,0" Name="categoryimage" Source="{Binding EventCategoryGraphic}" VerticalAlignment="Top" Width="30" />
         </Grid>
     </Grid>
 
